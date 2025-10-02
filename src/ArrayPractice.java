@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 
 public class ArrayPractice {
   public static void main(String[] args) {
