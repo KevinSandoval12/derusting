@@ -4,3 +4,4 @@ As you work through this exercise, write down anything that you needed to look u
 
 - how to insert at certain points in ArrayList
 - .join() for string
+- how to interate over maps and entries
